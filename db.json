@@ -1,0 +1,88 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "items": [
+    {
+      "name": "Seiko SNKL43K1S",
+      "price": "505",
+      "category": "Seiko",
+      "id": 1
+    },
+    {
+      "name": "Seiko SNKK09K1S",
+      "price": "300",
+      "category": "Seiko",
+      "id": 2
+    },
+    {
+      "name": "Orient RA-AC0005S10B",
+      "price": "345",
+      "category": "Orient",
+      "id": 3
+    },
+    {
+      "name": "Orient RA-AC0004S10B",
+      "price": "567",
+      "category": "Orient",
+      "id": 4
+    },
+    {
+      "name": "rer56",
+      "price": "345546",
+      "category": "Seiko",
+      "id": 5
+    }
+  ],
+  "categories": [
+    {
+      "name": "Seiko",
+      "id": 1
+    },
+    {
+      "name": "Orient",
+      "id": 2
+    },
+    {
+      "name": "Rado",
+      "id": 3
+    },
+    {
+      "name": "Tissot",
+      "id": 4
+    },
+    {
+      "name": "Citizen",
+      "id": 5
+    },
+    {
+      "name": "Longines",
+      "id": 6
+    },
+    {
+      "name": "test 2",
+      "id": 7
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "username": "admin",
+      "password": "123"
+    }
+  ]
+}
