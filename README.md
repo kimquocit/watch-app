@@ -4,6 +4,16 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+Step by Step:
+
+npm install -g json-server
+
+json-server --watch db.json
+
+node server.js
+
+npm start
+
 ### `npm start`
 
 Runs the app in the development mode.<br>
